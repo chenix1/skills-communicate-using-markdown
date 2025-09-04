@@ -7,3 +7,7 @@
 ```javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] abrir minecradft
+- [x] esclavizar aldeanos
+- [ ] matar al dragon
